@@ -31,7 +31,7 @@ Kullanıcıların platform hakkında hızlıca fikir edinebilmesi için responsi
 
 <hr>
 
-<h2>📂 Proje Yapısı</h2>
+<!-- <h2>📂 Proje Yapısı</h2>
 
  <div>
  Netflix-Clone/
@@ -41,4 +41,4 @@ Kullanıcıların platform hakkında hızlıca fikir edinebilmesi için responsi
     ├── images/
     └── icons/
  </div>
-
+ -->
