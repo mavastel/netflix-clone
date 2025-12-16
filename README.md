@@ -7,6 +7,14 @@ Kullanıcıların platform hakkında hızlıca fikir edinebilmesi için responsi
 
 <hr>
 
+<h2> 🌐 Demo </h2>
+
+<p align="center">
+  <img src="assets/images-netflix/gif/netflix.gif" alt="Website View" width="900">
+</p>
+
+<hr>
+
 <h2>✨ Özellikler</h2>
 
 <ul>
